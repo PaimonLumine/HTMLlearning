@@ -1,0 +1,8 @@
+html, body {
+    margin: 0px;
+    background-image: linear-gradient(to bottom right, #00ff, #00ff00);
+}
+h1 {
+    color: #1bffaa;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
