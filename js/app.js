@@ -20,3 +20,4 @@ function sals(t, l, c, s, z, id){
     sals('67%', '51%', 'pink', '125px', '11', "HI");
     sals('47%', '11%', 'lightblue', '115px', '10', "HE");
     sals('27%', '31%', 'lightgreen', '185px', '9', "SW");
+    sals('47%', '1%', '#00bbcc', '185px', '8', "CHS");
